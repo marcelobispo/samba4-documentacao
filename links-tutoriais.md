@@ -1,4 +1,4 @@
-## Espaço dedicado para divulgar os diversos artigos e tutoriais sobre Samba4 espalhados na internet.
+## Espaço dedicado para divulgar os diversos artigos e tutoriais espalhados pela internet sobre Samba4.
 
 [**Mundo da Computação Integral**: Instalando, configurando e provisionando o Samba4 como Controlador de Domínio Active Directory (AD)](https://mundodacomputacaointegral.blogspot.com/search/label/Samba "Instalando, configurando e provisionando o Samba4 como Controlador de Domínio Active Directory (AD)")
 _Site mantido pelo colaborador_ [@saitam10](https://telegram.me/Saitam10 "Identificação do @saitam10 no Telegram")
