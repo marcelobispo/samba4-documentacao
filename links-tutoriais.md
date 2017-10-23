@@ -7,3 +7,4 @@ _Site mantido pelo colaborador_ [@saitam10](https://telegram.me/Saitam10 "Identi
 
 [**Sempre Update**: Como instalar e configurar o Samba 4 como PDC e BDC!](https://sempreupdate.com.br/2016/06/como-instalar-configurar-samba-4-pdc-bdc.html "Como instalar e configurar o Samba 4 como PDC e BDC!")
 
+[**https://github.com/mendesalexandre**: [Instalando o Samba4 com Bind9 no CentOS 7](https://github.com/mendesalexandre/samba4/wiki/Instala%C3%A7%C3%A3o-Samba4-no-CentOS-7-com-Bind9 "Instalando os Samba4 com Bind9 no CentOS 7") _Colaboração do_ [@ValquenesOliveira](https://telegram.me/ValquenesOliveira "identificação do @ValquenesOliveira no Telegram")
